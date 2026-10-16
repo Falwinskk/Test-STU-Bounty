@@ -1,5 +1,5 @@
 name: Bounty
-version: 1.0.5
+version: 1.0.0
 main: de.fabs.bounty.BountyPlugin
 api-version: '26.2'
 author: Fabs
