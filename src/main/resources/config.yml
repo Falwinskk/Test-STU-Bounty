@@ -1,0 +1,4 @@
+# Mindestbetrag pro /bounty add
+min-amount: 100
+# Obergrenze für das gesamte Kopfgeld auf einen Spieler
+max-amount: 1000000

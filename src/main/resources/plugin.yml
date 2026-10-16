@@ -1,0 +1,17 @@
+name: Bounty
+version: 1.0.5
+main: de.fabs.bounty.BountyPlugin
+api-version: '26.2'
+author: Fabs
+depend: [Vault]
+commands:
+  bounty:
+    description: Kopfgeld setzen und anzeigen
+    usage: /bounty [add <spieler> <betrag>]
+permissions:
+  bounty.use:
+    description: Kopfgeld-Liste öffnen
+    default: true
+  bounty.add:
+    description: Kopfgeld aussetzen
+    default: true
